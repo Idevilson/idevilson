@@ -34,9 +34,9 @@
   <a href = "mailto:idevilson.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/idevilson-junior-493a3a143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  Comecei minha jornada na área de TI aos 8 anos, muito curioso, sempre quis entender como funcionava o computador, desde os circuitos elétricos até o software que me permitia interagir com ele. Atualmente sou graduado no curso de Tecnologia em Análise e Desaenvolvimento de Sistemas, autodidata e investigador na área de desenvolvimento mobile e web. Certamente estou apenas no início de uma longa jornada.
-  
-Meu objetivo é estar em constante desenvolvimento, aprimorando as minhas habilidades como desenvolvedor mobile, web e backend assim como, ser capaz de manter diálogos multilaterais sobre negócios com diferentes perfis de pessoas, identificar suas dores e posteriormente resolvê-las.
+  I started my journey in the IT field when I was 8 years old, very curious, I always wanted to understand how the computer worked, from the electrical circuits to the software that allowed me to interact with it. I am currently a graduate of the Technology in Systems Analysis and Development course, self-taught and researcher in the field of mobile and web development. I am certainly just at the beginning of a long journey.
+
+My goal is to be in constant development, improving my skills as a mobile, web and backend developer as well as being able to maintain multilateral business dialogues with different profiles of people, identify their pains and later solve them.
   
   ![Snake animation](https://github.com/Idevilson/idevilson/blob/output/github-contribution-grid-snake.svg)
  
