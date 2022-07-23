@@ -35,6 +35,7 @@
   <a href="https://www.linkedin.com/in/idevilson-junior-493a3a143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   Comecei minha jornada na área de TI aos 8 anos, muito curioso, sempre quis entender como funcionava o computador, desde os circuitos elétricos até o software que me permitia interagir com ele. Atualmente sou graduado no curso de Tecnologia em Análise e Desaenvolvimento de Sistemas, autodidata e investigador na área de desenvolvimento mobile e web. Certamente estou apenas no início de uma longa jornada.
+  
 Meu objetivo é estar em constante desenvolvimento, aprimorando as minhas habilidades como desenvolvedor mobile, web e backend assim como, ser capaz de manter diálogos multilaterais sobre negócios com diferentes perfis de pessoas, identificar suas dores e posteriormente resolvê-las.
   
   ![Snake animation](https://github.com/Idevilson/idevilson/blob/output/github-contribution-grid-snake.svg)
